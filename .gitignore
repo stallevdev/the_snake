@@ -127,13 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
 .vscode
-
 .deployment
-
 .idea
 
 # Python version
-
 PYTHON_VERSION.txt
