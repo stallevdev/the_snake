@@ -1,0 +1,3 @@
+venv/
+PYTHON_VERSION.txt
+__pycache__
